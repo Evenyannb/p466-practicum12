@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbfe42ca-a10b-47ba-8ec6-458d695b12db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/render/primes-service-database.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum1" beforeDir="false" afterPath="$PROJECT_DIR$/../practicum1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum2" beforeDir="false" afterPath="$PROJECT_DIR$/../practicum2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/.github/workflows/main.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/src/main/java/edu/iu/p466/prime_service/PrimeServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/src/main/java/edu/iu/p466/prime_service/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/src/main/java/edu/iu/p466/prime_service/controller/PrimeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/src/main/java/edu/iu/p466/prime_service/service/IPrimesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/src/main/java/edu/iu/p466/prime_service/service/PrimesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/src/test/java/edu/iu/p466/prime_service/PrimeServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicum5/prime-service/src/test/java/edu/iu/p466/prime_service/service/PrimesServiceTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2olVBnay4qKuCcNzA9iq9FnVnnj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/yanliang/p466/infrastructure"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/render" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbfe42ca-a10b-47ba-8ec6-458d695b12db" name="Changes" comment="" />
+      <created>1731444016966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731444016966</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
